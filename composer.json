@@ -1,6 +1,6 @@
 {
     "name": "morenorafael/http",
-    "description": "Cliente Http para proyectos de laravel < 6",
+    "description": "Cliente Http para proyectos de laravel < 7",
     "license": "MIT",
     "authors": [
         {
